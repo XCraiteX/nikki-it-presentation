@@ -23,7 +23,7 @@ export default function Home() {
 
 
   useEffect(() => {
-    window.location.replace(`/#s${slide}`)
+    window.location.replace(`#s${slide}`)
   }, [slide])
  
   const nextSlide = () => {
