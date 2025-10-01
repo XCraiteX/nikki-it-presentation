@@ -13,8 +13,7 @@ export const metadata: Metadata = {
   title: {
     default: "Інформаційні технології та майбутнє IT", 
     template: "%s | Інформаційні технології та майбутнє IT",
-  },
-  description: "Профессиональная разработка сайтов, веб-приложений, Telegram и Discord ботов. Низкие цены, качественная работа.",
+  }
 };
 
 export default function RootLayout({
